@@ -18,3 +18,9 @@
 [23-Feb-2013 18:49:56] PHP Fatal error:  Call to undefined method Auth::redirect() in /home/crow/public_html/shiny-cyril/application/controllers/auth.php on line 110
 [23-Feb-2013 18:50:15] PHP Fatal error:  Call to undefined method Auth::redirect() in /home/crow/public_html/shiny-cyril/application/controllers/auth.php on line 110
 [23-Feb-2013 18:50:37] PHP Fatal error:  Call to a member function redirect() on a non-object in /home/crow/public_html/shiny-cyril/application/controllers/auth.php on line 110
+[23-Feb-2013 19:10:10] PHP Fatal error:  Call to undefined function  post_request() in /home/crow/public_html/shiny-cyril/application/controllers/debug.php on line 6
+[23-Feb-2013 19:12:07] PHP Fatal error:  Call to undefined function  post_request() in /home/crow/public_html/shiny-cyril/application/controllers/debug.php on line 9
+[23-Feb-2013 20:44:05] PHP Parse error:  syntax error, unexpected ';' in /home/crow/public_html/shiny-cyril/application/controllers/debug.php on line 7
+[23-Feb-2013 21:17:00] PHP Fatal error:  Call to a member function simple_get() on a non-object in /home/crow/public_html/shiny-cyril/application/controllers/event.php on line 6
+[23-Feb-2013 21:56:16] PHP Fatal error:  Call to a member function get_where() on a non-object in /home/crow/public_html/shiny-cyril/application/models/guide.php on line 12
+[23-Feb-2013 21:57:07] PHP Fatal error:  Call to a member function get_where() on a non-object in /home/crow/public_html/shiny-cyril/application/models/guide.php on line 12
