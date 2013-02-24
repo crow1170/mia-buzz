@@ -25,3 +25,11 @@
 [23-Feb-2013 21:56:16] PHP Fatal error:  Call to a member function get_where() on a non-object in /home/crow/public_html/shiny-cyril/application/models/guide.php on line 12
 [23-Feb-2013 21:57:07] PHP Fatal error:  Call to a member function get_where() on a non-object in /home/crow/public_html/shiny-cyril/application/models/guide.php on line 12
 [23-Feb-2013 22:37:55] PHP Fatal error:  Call to a member function get() on a non-object in /home/crow/public_html/shiny-cyril/application/controllers/event.php on line 18
+[23-Feb-2013 23:37:39] PHP Parse error:  syntax error, unexpected ')' in /home/crow/public_html/mia-buzz/application/controllers/event.php on line 8
+[24-Feb-2013 00:01:02] PHP Fatal error:  Cannot use object of type stdClass as array in /home/crow/public_html/mia-buzz/application/views/event-details.php on line 7
+[24-Feb-2013 00:01:43] PHP Fatal error:  Cannot use object of type stdClass as array in /home/crow/public_html/mia-buzz/application/views/event-details.php on line 7
+[24-Feb-2013 00:05:01] PHP Fatal error:  Cannot use object of type stdClass as array in /home/crow/public_html/mia-buzz/application/views/event-details.php on line 7
+[24-Feb-2013 00:06:46] PHP Fatal error:  Cannot use object of type stdClass as array in /home/crow/public_html/mia-buzz/application/views/event-details.php on line 7
+[24-Feb-2013 00:07:37] PHP Fatal error:  Cannot use object of type stdClass as array in /home/crow/public_html/mia-buzz/application/views/event-details.php on line 7
+[24-Feb-2013 00:08:10] PHP Fatal error:  Cannot use object of type stdClass as array in /home/crow/public_html/mia-buzz/application/views/event-details.php on line 7
+[24-Feb-2013 00:55:16] PHP Parse error:  syntax error, unexpected ';' in /home/crow/public_html/mia-buzz/application/views/event-details.php on line 8

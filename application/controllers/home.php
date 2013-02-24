@@ -7,6 +7,7 @@ class Home extends CI_Controller {
 		$user_email = $this->tank_auth->get_user_email();
 		$this->load->view('header', array('user_email' => $user_email));
 		$this->load->view('home');
+		$this->load->view('footer');
 	}
 //
 }
