@@ -24,3 +24,4 @@
 [23-Feb-2013 21:17:00] PHP Fatal error:  Call to a member function simple_get() on a non-object in /home/crow/public_html/shiny-cyril/application/controllers/event.php on line 6
 [23-Feb-2013 21:56:16] PHP Fatal error:  Call to a member function get_where() on a non-object in /home/crow/public_html/shiny-cyril/application/models/guide.php on line 12
 [23-Feb-2013 21:57:07] PHP Fatal error:  Call to a member function get_where() on a non-object in /home/crow/public_html/shiny-cyril/application/models/guide.php on line 12
+[23-Feb-2013 22:37:55] PHP Fatal error:  Call to a member function get() on a non-object in /home/crow/public_html/shiny-cyril/application/controllers/event.php on line 18

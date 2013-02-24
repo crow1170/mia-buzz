@@ -72,7 +72,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="brand" href="http://crow1170.com/shiny-cyril/index.php/home">Shiny-Cyril</a>
+            <a class="brand" href="http://crow1170.com/mia-buzz/index.php/home">MIA-Buzz</a>
             <div class="nav-collapse collapse">
               <ul class="nav">
                 <li><a href="#home">Home</a></li>
@@ -83,12 +83,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <?php
 	if($user_email){
 ?>
-            <a class="btn btn-primary pull-right" href="http://crow1170.com/shiny-cyril/index.php/auth/logout" style="margin-right:10px">Logout</a>  
+            <a class="btn btn-primary pull-right" href="http://crow1170.com/mia-buzz/index.php/auth/logout" style="margin-right:10px">Logout</a>  
 <?php
 	}else{
 ?>
-            <a class="btn btn-primary pull-right" href="http://crow1170.com/shiny-cyril/index.php/auth/login" style="margin-right:10px">Login</a>  
-            <a class="btn btn-primary pull-right" href="http://crow1170.com/shiny-cyril/index.php/auth/register" style="margin-right:10px">Register</a>
+            <a class="btn btn-primary pull-right" href="http://crow1170.com/mia-buzz/index.php/auth/login" style="margin-right:10px">Login</a>  
+            <a class="btn btn-primary pull-right" href="http://crow1170.com/mia-buzz/index.php/auth/register" style="margin-right:10px">Register</a>
 <?php } ?>
           </div>
         </div>

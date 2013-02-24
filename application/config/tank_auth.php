@@ -7,7 +7,7 @@
 | These details are used in emails sent by authentication library.
 |--------------------------------------------------------------------------
 */
-$config['website_name'] = 'Shiny-Cyril';
+$config['website_name'] = 'MIA-Buzz';
 $config['webmaster_email'] = 'cknowles117@gmail.com';
 
 /*

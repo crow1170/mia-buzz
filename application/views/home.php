@@ -4,9 +4,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <div class="container-fliud">
 	<div class="row-fliud">
 		<div class="span10 well">
-			<h1>What is Shiny-Cyril?</h1>
-			<p>Shiny-Cyril is an event planning site that is here to help you organize- before and during. Email your attendees, make playlists, register with the Miami Beach Event Database. During your event, push messages to everyone in the room or explain things about what's going.</p>
-			<a href="http://crow1170.com/shiny-cyril/index.php/event/index" class="btn btn-primary">See Shiny-Cyril in action</a>
+			<h1>What is MIA-Buzz?</h1>
+			<p>MIA-Buzz is an event planning site that is here to help you organize- before and during. Email your attendees, make playlists, register with the Miami Beach Event Database. During your event, push messages to everyone in the room or explain things about what's going.</p>
+			<a href="http://crow1170.com/mia-buzz/index.php/event/index" class="btn btn-primary">See MIA-Buzz in action</a>
 		</div>
 	</div>
 	<div  class="row-fliud"><a href="#" name="news"></a>
